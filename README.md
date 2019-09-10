@@ -6,7 +6,7 @@ Add GSAP to your website (TweenMax or TweenLite)
 
 ## How to use
 - Import smootherize.min.css and smootherize.min.js to your project
-- Add a new <div> which is parent of all of your content with the following class : 'sp-smootherizer'
+- Add a new div at the top of your content with the following class : 'sp-smootherizer'
 - Add the following code to your main JS file : 
 
 ```javascript
