@@ -26,3 +26,12 @@ window.addEventListener("load", smootherize);
 **ease**: scroll speed
 
 If you have any display issues, try to put sp-smootherizer in absolute position
+
+
+## CDN
+```
+<link href="https://rawcdn.githack.com/vuetto/smootherize/851118376136daef128aa0a46c4d29de17eee145/smootherize.min.css" rel="stylesheet" type="text/css">
+```
+```
+<script src="https://rawcdn.githack.com/vuetto/smootherize/851118376136daef128aa0a46c4d29de17eee145/smootherize.min.js"></script>
+```
