@@ -25,7 +25,7 @@ window.addEventListener("load", smootherize);
 **target**: first child of 'sp-smootherizer'
 **ease**: scroll speed
 
-If you have any display issues, try to put sp-smootherizer in absolute position
+If you have any display issues, try to put sp-smootherizer's first child in absolute position
 
 
 ## CDN
